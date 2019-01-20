@@ -84,3 +84,6 @@
 ![34](img/34.png)
 
 ![35](img/35.png)
+
+
+* [Scala interview questions](Scala interview questions.xlsx)
