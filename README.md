@@ -1,4 +1,20 @@
 
+* [Scala (школа функционального программирования)](https://drive.google.com/open?id=1rJYcn7oxxo9Hz2tOBccW4inMK3oJ8coU)
+* [Scala Intro (part 2)](https://drive.google.com/open?id=1sLdHGKK3hseFs02oygO3L0B_qQc0nDdW)
+
+
+* [scala slide-1](pdf/scala_slides1.pdf)
+* [scala slide-2](pdf/scala_slides2.pdf)
+* [scala slide-3](pdf/scala_slides3.pdf)
+* [scala slide-4](pdf/scala_slides4.pdf)
+* [scala slide-5](pdf/scala_slides5.pdf)
+* [scala slide-6](pdf/scala_slides6.pdf)
+* [scala slide-7](pdf/scala_slides7.pdf)
+* [scala slide-8](pdf/scala_slides8.pdf)
+* [scala slide-9](pdf/scala_slides9.pdf)
+* [scala slide-10](pdf/scala_slides10.pdf)
+
+
 ![1](img/1.png)
 
 ![2](img/2.png)
