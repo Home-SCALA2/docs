@@ -1,4 +1,11 @@
 
+* [Василий Купоросов - Scala](pdf/term5-scala.pdf) **(** [>>](https://au.cdkrot.me/get/spbau-2020/term5-scala?v=5) **)**
+* [Хорстман К. - Scala для нетерпеливых - 2013](pdf/Хорстман%20К.%20-%20Scala%20для%20нетерпеливых%20-%202013.pdf) **(** [>>](https://afk.academ.org/~mmm/Scala/Хорстман%20К.%20-%20Scala%20для%20нетерпеливых%20-%202013.pdf) **)**
+
+**(** [Scala vs Kotli](https://sohabr.net/habr/post/308562/?version=192274) **)**
+
+
+
 * [Scala (школа функционального программирования)](https://drive.google.com/open?id=1rJYcn7oxxo9Hz2tOBccW4inMK3oJ8coU)
 * [Scala Intro (part 2)](https://drive.google.com/open?id=1sLdHGKK3hseFs02oygO3L0B_qQc0nDdW)
 
